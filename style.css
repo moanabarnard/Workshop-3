@@ -56,3 +56,12 @@
 .nav li:last-child{
   border-right: none;
 }
+
+.AboutContainer{
+  max-width:920px;
+  background-color: #87a984;
+  margin-left: auto;
+  margin-right: auto;
+  height: 210px;
+  margin-top: 8px;
+}
